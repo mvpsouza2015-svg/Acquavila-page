@@ -1,0 +1,11 @@
+{
+  "name": "acquavilla-catalogo-pedidos",
+  "version": "1.0.0",
+  "description": "Catálogo online e fluxo de pedidos via WhatsApp para Acquavilla Distribuidora",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "keywords": ["distribuidora", "catalogo", "whatsapp", "limpeza", "descartaveis"],
+  "author": "Acquavilla",
+  "license": "MIT"
+}
